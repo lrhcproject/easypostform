@@ -164,7 +164,7 @@
         </v-col>
       </v-row>
       <v-btn elevation="2" @click="goToSubmit()">
-        内容をクリップボードにコピーして投稿ページに移動
+        内容をクリップボードにコピーし投稿ページへ
       </v-btn>
     </v-container>
   </v-form>
